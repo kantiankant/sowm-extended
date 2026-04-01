@@ -1,6 +1,6 @@
 # sowm-extended (*~~Simple~~ Shitty Opinionated Window Manager, now with marginally less suffering*)
 
-<a href="1.png"><img src="1.png" width="43%" align="right"></a>
+<a href="assets/1.png"><img src="assets/1.png" width="43%" align="right"></a>
 
 A fork of [sowm](https://github.com/dylanaraps/sowm) — an itsy bitsy floating window manager (*~420 sloc*).
 
