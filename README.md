@@ -1,5 +1,7 @@
 # sowm-extended (*~~Simple~~ Shitty Opinionated Window Manager, now with marginally less suffering*)
 
+<a href="1.png"><img src="1.png" width="43%" align="right"></a>
+
 A fork of [sowm](https://github.com/dylanaraps/sowm) — an itsy bitsy floating window manager (*~420 sloc*).
 
 - Floating only.
@@ -19,6 +21,8 @@ A fork of [sowm](https://github.com/dylanaraps/sowm) — an itsy bitsy floating 
 - [No ICCCM](https://web.archive.org/web/20190617214524/https://raw.githubusercontent.com/kfish/xsel/1a1c5edf0dc129055f7764c666da2dd468df6016/rant.txt).
 - etc etc etc
 
+<a href="2.png"><img src="2.png" width="43%" align="right"></a>
+
 ## Default Keybindings
 
 **Window Management**
@@ -37,18 +41,18 @@ A fork of [sowm](https://github.com/dylanaraps/sowm) — an itsy bitsy floating 
 
 **Programs**
 
-| combo                    | action           | program        |
-| ------------------------ | ---------------- | -------------- |
-| `MOD4` + `q`             | terminal         | `st`           |
-| `MOD4` + `e`             | file manager     | `kitty -e yazi`|
-| `MOD4` + `Return`        | browser          | `firefox-bin`  |
-| `MOD4` + `space`         | launcher         | `dmenu_run`    |
-| `Print`                  | screenshot       | `maim -s`      |
-| `XF86_AudioLowerVolume`  | volume down      | `wpctl`        |
-| `XF86_AudioRaiseVolume`  | volume up        | `wpctl`        |
-| `XF86_AudioMute`         | volume toggle    | `wpctl`        |
-| `XF86_MonBrightnessUp`   | brightness up    | `brightnessctl`|
-| `XF86_MonBrightnessDown` | brightness down  | `brightnessctl`|
+| combo                    | action           | program         |
+| ------------------------ | ---------------- | --------------- |
+| `MOD4` + `q`             | terminal         | `st`            |
+| `MOD4` + `e`             | file manager     | `kitty -e yazi` |
+| `MOD4` + `Return`        | browser          | `firefox-bin`   |
+| `MOD4` + `space`         | launcher         | `dmenu_run`     |
+| `Print`                  | screenshot       | `maim -s`       |
+| `XF86_AudioLowerVolume`  | volume down      | `wpctl`         |
+| `XF86_AudioRaiseVolume`  | volume up        | `wpctl`         |
+| `XF86_AudioMute`         | volume toggle    | `wpctl`         |
+| `XF86_MonBrightnessUp`   | brightness up    | `brightnessctl` |
+| `XF86_MonBrightnessDown` | brightness down  | `brightnessctl` |
 
 ## Dependencies
 
@@ -74,7 +78,7 @@ Type=Application
 
 ## Thanks
 
-- [sowm](https://github.com/dylanaraps/sowm) (where all of this started)
+- [sowm](https://github.com/dylanaraps/sowm) — where all of this started
 - [2bwm](https://github.com/venam/2bwm)
 - [SmallWM](https://github.com/adamnew123456/SmallWM)
 - [berry](https://github.com/JLErvin/berry)
