@@ -19,9 +19,9 @@ A fork of [sowm](https://github.com/dylanaraps/sowm) — an itsy bitsy floating 
 - All windows die on exit.
 - No window borders.
 - [No ICCCM](https://web.archive.org/web/20190617214524/https://raw.githubusercontent.com/kfish/xsel/1a1c5edf0dc129055f7764c666da2dd468df6016/rant.txt).
+<a href="assets/2.png"><img src="assets/2.png" width="43%" align="right"></a>
 - etc etc etc
 
-<a href="assets/2.png"><img src="assets/2.png" width="43%" align="right"></a>
 
 ## Default Keybindings
 
