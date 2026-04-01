@@ -79,7 +79,7 @@ Type=Application
 
 ## Thanks
 
-- [sowm](https://github.com/dylanaraps/sowm) — where all of this started
+- [sowm](https://github.com/dylanaraps/sowm) (where all of this started)
 - [2bwm](https://github.com/venam/2bwm)
 - [SmallWM](https://github.com/adamnew123456/SmallWM)
 - [berry](https://github.com/JLErvin/berry)
